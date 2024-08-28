@@ -14,6 +14,8 @@ body {
   background-color: #E0E1DD;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
+  height: 100vh;
+  width: 100vw;
 }
 
 main {
